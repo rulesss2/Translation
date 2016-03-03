@@ -1,2 +1,0 @@
-# Translation
-Translation MyBot
